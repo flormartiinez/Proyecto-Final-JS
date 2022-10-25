@@ -1,0 +1,8 @@
+[
+    {"id":1,"nombre":"Maria","apellido":"Perez","password":"123"},
+    {"id":2,"nombre":"Pedro","apellido":"Gonzalez","password":"123"},
+    {"id":3,"nombre":"Juan","apellido":"Gutierrez","password":"123"},
+    {"id":4,"nombre":"Anibal","apellido":"Lopez","password":"123"},
+    {"id":5,"nombre":"Juana","apellido":"Suarez","password":"123"},
+    {"id":6,"nombre":"Omar","apellido":"Maniás","password":"123"}
+]

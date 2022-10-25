@@ -1,0 +1,11 @@
+[
+    {"id":1,"descripcion":"Velas","precio":200},
+    {"id":2,"descripcion":"Aceite Escenciales","precio":300},
+    {"id":3,"descripcion":"Lamparas de Sal","precio":800},
+    {"id":4,"descripcion":"Jabones","precio":100},
+    {"id":5,"descripcion":"Difusores","precio":1200},
+    {"id":6,"descripcion":"Fuentes de Agua","precio":1700},
+    {"id":7,"descripcion":"Inciensos","precio":50},
+    {"id":8,"descripcion":"Fragancia","precio":600},
+    {"id":9,"descripcion":"Sales para Baño","precio":300}
+]
